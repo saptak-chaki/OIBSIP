@@ -1,0 +1,29 @@
+============================================================
+              SOCIAL MEDIA DESIGN TASK DOCUMENTATION             
+    ============================================================
+
+    1. PROJECT SPECIFICATIONS:
+       - Design Type : Instagram / Facebook Promotional Post (Carousel or Single)
+       - Dimensions  : 1080 x 1350 px (Portrait 4:5 Aspect Ratio)
+       - Color Palette: 
+          * Primary Background : #0B090A (Dark Slate)
+          * Accent / Highlight : #00F5D4 (Neon Teal)
+          * Text Color         : #FFFFFF (Pure White)
+       - Typography  : Montserrat (Headings) & Inter (Body)
+
+    2. VISUAL LAYOUT STRUCTURE (ON CANVA/FIGMA):
+       - Top Area    : Bold Hook Headline ("Build Smarter, Live Better")
+       - Center Area : High-contrast mock-up image or vector illustration
+       - Bottom Area : Value proposition bullets & clear CTA button
+       - Branding    : Small logo watermark at the top-right corner
+
+    3. READY-TO-USE CAPTION & HASHTAGS:
+       Caption: 
+       "Take your fitness and productivity to the next level with NexusFit! 🚀 
+       Track your progress, stay motivated, and achieve your goals effortlessly. 
+       Click the link in bio to download the app today! ✨"
+
+       Hashtags:
+       #NexusFit #TechStartup #UIUXDesign #FitnessApp #SocialMediaDesign 
+       #DigitalInnovation #GraphicDesign2026 #ProductivityApp
+    ============================================================
