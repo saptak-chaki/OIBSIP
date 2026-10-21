@@ -1,0 +1,10 @@
+==========================================
+    NAME: Alex Rivers
+    TITLE: Lead UI/UX Engineer & Co-Founder
+    COMPANY: NexusFit
+    ------------------------------------------
+    PHONE: +1 (555) 234-5678
+    EMAIL: alex.rivers@nexusfit.io
+    WEBSITE: www.nexusfit.io
+    SOCIALS: @nexusfit_official
+    ==========================================
