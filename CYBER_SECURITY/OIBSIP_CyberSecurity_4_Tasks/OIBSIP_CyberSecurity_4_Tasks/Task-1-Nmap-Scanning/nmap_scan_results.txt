@@ -1,0 +1,10 @@
+Nmap scan results — replace this template with real output.
+
+Target:
+Date/time:
+Authorisation/scope:
+
+Run on your authorised local target:
+nmap 127.0.0.1 -oN nmap_scan_results.txt
+
+Paste the actual Nmap output below. Do not invent port/service results.
